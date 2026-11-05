@@ -1,0 +1,6 @@
+/* Optional: drop Inter and JetBrains Mono .woff2 files into /fonts and uncomment.
+   Without them the app falls back to system fonts, which works fine offline. */
+/*
+@font-face { font-family: 'Inter'; font-weight: 300 700; font-display: swap; src: url('Inter-Variable.woff2') format('woff2'); }
+@font-face { font-family: 'JetBrains Mono'; font-weight: 400 700; font-display: swap; src: url('JetBrainsMono-Variable.woff2') format('woff2'); }
+*/
